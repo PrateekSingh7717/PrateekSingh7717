@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on Open Source 
 - 📫 How to reach me prateeksingh7717@gmail.com
-- ⚡ Fun fact: I like cookies more than chocolate
+- ⚡ Fun fact: My day always start with a cup of tea.
 
 <!---
 PrateekSingh7717/PrateekSingh7717 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
